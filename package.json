@@ -1,0 +1,32 @@
+{
+  "name": "mfe-sync",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [
+    "mfe",
+    "microui"
+  ],
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wozbo/mfe-sync.git"
+  },
+  "author": "Christopher Wozniak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wozbo/mfe-sync/issues"
+  },
+  "homepage": "https://github.com/Wozbo/mfe-sync#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.24",
+    "ts-jest": "^24.2.0",
+    "typescript": "^3.7.4"
+  },
+  "dependencies": {
+    "jest": "^24.9.0",
+    "rxjs": "^6.5.3"
+  }
+}
